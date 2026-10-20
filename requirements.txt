@@ -7,4 +7,5 @@ pydantic[email]>=2.7
 email-validator>=2.1
 pymysql
 psycopg2
-postgresql
+psycopg2-binary
+asyncpg
