@@ -6,3 +6,5 @@ python-multipart>=0.0.9
 pydantic[email]>=2.7
 email-validator>=2.1
 pymysql
+psycopg2
+postgresql
